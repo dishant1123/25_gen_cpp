@@ -92,3 +92,25 @@ pure virtual function
 file handling  
 with  oop 
 */
+
+/*
+
+bank  : 
+
+1. deposit  
+2. withdraw
+3. check balance 
+
+bank.txt 
+
+                        STATE BANK OF INDIA
+DATE : 20-09-2020                           ACC.HOLDER :PINAL PATEL 
+BRANCH : AHMEDABAD                          PAN NO : AVKSP8952N
+
+DATE/TIME            AMOUNT         DR          CR         BALANCE 
+20-9-2025                                                    25000
+20-9-2025            10000                     10000         35000 
+20-9-2025            15000         15000                     20000
+
+#include<time.h>
+*/
